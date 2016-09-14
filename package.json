@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Punch the Monkey Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenc222/Punch-the-Monkey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenc222/Punch-the-Monkey/issues"
+  },
+  "homepage": "https://github.com/stephenc222/Punch-the-Monkey#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
